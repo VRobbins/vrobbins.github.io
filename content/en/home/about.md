@@ -4,7 +4,7 @@ image: "profile.jpeg"
 weight: 8
 ---
 
-Recent Mathematics graduate pursuing Software Development. With a background in Mathematics and Computing, I seek efficient and elegant solutions in Programming. I am experienced in Mathematics communication and deeply enjoy collaboration and teamwork. 
+Recent Mathematics graduate and Software Developer. With a background in Math and Computing, I seek efficient and elegant solutions in Programming. I am experienced in STEM communication and deeply enjoy collaboration and teamwork. 
 
 ### Education 
 Mathematics B.S. with Specialization in Computing | UCLA | 2020
@@ -25,8 +25,8 @@ Mathematics B.S. with Specialization in Computing | UCLA | 2020
 ### Technical Skills
 
 * C++ 
-* Java / C#
-* MATLAB
+* Java
 * Git
+* MATLAB
 * Qt
 * LaTeX 

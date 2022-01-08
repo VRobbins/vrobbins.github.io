@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects - See More on Github!"
 weight: 10
 ---
 
