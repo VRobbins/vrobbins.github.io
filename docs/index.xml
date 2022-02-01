@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction</title>
-    <link>http://www.vince-robbins.com/</link>
+    <link>https://www.vince-robbins.com/</link>
     <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.vince-robbins.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vince-robbins.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Connect4 AI - Java</title>
-      <link>http://www.vince-robbins.com/projects/connect4/</link>
+      <link>https://www.vince-robbins.com/projects/connect4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vince-robbins.com/projects/connect4/</guid>
+      <guid>https://www.vince-robbins.com/projects/connect4/</guid>
       <description>Connect-4 with AI and Graphical User Interface This is a Connect-4 AI written in Java and implementing a Minimax Algorithm with Alpha-Beta Pruning. With difficulty = 4 and under 100,000 distinct games, this AI beats a random AI 99.983% of the time and loses 0.013% of the time.</description>
     </item>
     
     <item>
       <title>Qt Sidescroller - C&#43;&#43;</title>
-      <link>http://www.vince-robbins.com/projects/sidescroller/</link>
+      <link>https://www.vince-robbins.com/projects/sidescroller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vince-robbins.com/projects/sidescroller/</guid>
+      <guid>https://www.vince-robbins.com/projects/sidescroller/</guid>
       <description>Alien Invasion This is a Sidescroller written in C++ using the Qt Creator and an Event-Driven Programming Scheme. This Project was completed in collaboration with Darren Atallah, Weiyu Huang, and Peter Liu. Among other things, I was responsible for handling user input, player abilities, and optimizing program efficiency.</description>
     </item>
     
     <item>
       <title>First Post!</title>
-      <link>http://www.vince-robbins.com/blog/firstpost/</link>
+      <link>https://www.vince-robbins.com/blog/firstpost/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vince-robbins.com/blog/firstpost/</guid>
+      <guid>https://www.vince-robbins.com/blog/firstpost/</guid>
       <description>This site is currently under construction.</description>
     </item>
     
