@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Introduction</title>
-    <link>http://vince-robbins.com/tags/</link>
+    <link>https://VRobbins.github.io/mywebsite/tags/</link>
     <description>Recent content in Tags on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://vince-robbins.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://VRobbins.github.io/mywebsite/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>construction</title>
-      <link>http://vince-robbins.com/tags/construction/</link>
+      <link>https://VRobbins.github.io/mywebsite/tags/construction/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://vince-robbins.com/tags/construction/</guid>
+      <guid>https://VRobbins.github.io/mywebsite/tags/construction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://vince-robbins.com/tags/first/</link>
+      <link>https://VRobbins.github.io/mywebsite/tags/first/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://vince-robbins.com/tags/first/</guid>
+      <guid>https://VRobbins.github.io/mywebsite/tags/first/</guid>
       <description></description>
     </item>
     
