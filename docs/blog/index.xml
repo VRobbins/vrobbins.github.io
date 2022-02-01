@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Introduction</title>
-    <link>https://vrobbins.github.io/blog/</link>
+    <link>http://vince-robbins.com/blog/</link>
     <description>Recent content in Updates on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vrobbins.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://vince-robbins.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post!</title>
-      <link>https://vrobbins.github.io/blog/firstpost/</link>
+      <link>http://vince-robbins.com/blog/firstpost/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vrobbins.github.io/blog/firstpost/</guid>
+      <guid>http://vince-robbins.com/blog/firstpost/</guid>
       <description>This site is currently under construction.</description>
     </item>
     
