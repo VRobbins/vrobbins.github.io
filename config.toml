@@ -1,5 +1,5 @@
 publishDir			 = "./docs"
-baseURL                          = "https://vrobbins.github.io"  # Your domain name. Must end with "/"
+baseURL                          = "https://vince-robbins.com"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                = ""                       # https://gohugo.io/content-management/comments
