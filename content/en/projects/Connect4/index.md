@@ -1,6 +1,6 @@
 ---
-title: "Connect4 AI - Java"
-weight: 1
+title: "Connect4 AI"
+weight: 40
 ---
 
 ## Connect-4 with AI and Graphical User Interface

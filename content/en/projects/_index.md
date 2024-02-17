@@ -1,6 +1,5 @@
 ---
-title: "Projects - See More on Github!"
+title: "My Work"
 weight: 10
 ---
 
-Here are some projects I have worked on!

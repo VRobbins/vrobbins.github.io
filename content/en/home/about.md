@@ -2,17 +2,22 @@
 title: "About"
 image: "profile.jpeg"
 weight: 8
+pdf: "Resume.pdf"
 ---
 
-Recent Mathematics graduate and Software Developer. With a background in Math and Computing, I seek efficient and elegant solutions in Programming. I am experienced in STEM communication and deeply enjoy collaboration and teamwork. 
+Hi! My name is Vincent and I am a Software Engineer and Data Scientist based in Los Angeles. I have a love for elegant Mathematical and Statistical solutions that guides me in everything I do.
+
+[Check out my Resume!](pdf/Resume.pdf)
+
+---
 
 ### Education 
 Mathematics B.S. with Specialization in Computing | UCLA | 2020
 
+
 ### Important Coursework
 
-* Advanced Programming with C++ 
-* Java
+* Programming 
 * Algorithms
 * Numerical Methods
 * Linear Algebra
@@ -20,13 +25,3 @@ Mathematics B.S. with Specialization in Computing | UCLA | 2020
 * Mathematical Logic
 * Statistics
 * Physics
-
-
-### Technical Skills
-
-* C++ 
-* Java
-* Git
-* MATLAB
-* Qt
-* LaTeX 
