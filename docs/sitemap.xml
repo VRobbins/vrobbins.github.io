@@ -2,28 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vrobbins.github.io/projects/connect4/</loc>
-  </url><url>
-    <loc>https://vrobbins.github.io/projects/sidescroller/</loc>
+    <loc>https://vrobbins.github.io/projects/bot_classifier/</loc>
   </url><url>
     <loc>https://vrobbins.github.io/projects/</loc>
   </url><url>
-    <loc>https://vrobbins.github.io/blog/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <loc>https://vrobbins.github.io/projects/api_security/</loc>
   </url><url>
-    <loc>https://vrobbins.github.io/tags/construction/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <loc>https://vrobbins.github.io/projects/sidescroller/</loc>
   </url><url>
-    <loc>https://vrobbins.github.io/tags/first/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vrobbins.github.io/blog/firstpost/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <loc>https://vrobbins.github.io/projects/connect4/</loc>
   </url><url>
     <loc>https://vrobbins.github.io/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vrobbins.github.io/tags/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
